@@ -8,3 +8,4 @@
 6) https://www.figma.com/file/d3IqXHq8JYnhQJngGJZdwM/The-Watch-Spot?type=design&node-id=0-1&mode=design&t=G5gi9U4uzexUeQo5-0
 7) https://www.figma.com/file/VFmtDyYSZSdCR9t1Kc35YZ/Barbershop-(Copy-EN)-(Copy)?type=design&node-id=844-0&mode=design&t=OtxDku0YsnkoTb4S-0
 8) https://www.figma.com/file/LWMTodUscRGMcbTpxE3kgI/Simply-Chocolate?type=design&node-id=0-1&t=wMXHXEIyepyZwaSA-0
+9) https://www.figma.com/file/B1m2uk25m1eAgroESAuM2g/Web-Studio-(Version-3.0)?type=design&node-id=297046-1554&mode=design&t=tk64NCNzthz9zXSr-0
